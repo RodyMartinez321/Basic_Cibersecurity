@@ -2,7 +2,7 @@
 # Concepto claves
 ## Definición de ciberseguridad: 
 
-La ciberseguridad se refiere a las prácticas, tecnologías y medidas implementadas para proteger los sistemas informáticos y los datos de posibles amenazas cibernéticas. Esto incluye la protección de la confidencialidad, integridad y disponibilidad de la información, así como la prevención de accesos no autorizados, el robo de datos, el sabotaje o cualquier otra actividad maliciosa que pueda comprometer la seguridad de los sistemas y redes.
+La ciberseguridad se refiere a las prácticas, tecnologías y medidas implementadas para proteger los sistemas informáticos y los datos de posibles amenazas cibernéticas. Esto incluye la protección de la confidencialidad, integridad, Autenticidad y disponibilidad de la información, así como la prevención de accesos no autorizados, el robo de datos, el sabotaje o cualquier otra actividad maliciosa que pueda comprometer la seguridad de los sistemas y redes.
 
 ## Importancia de la ciberseguridad en el mundo actual: 
 
